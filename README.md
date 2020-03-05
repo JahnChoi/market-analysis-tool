@@ -10,6 +10,7 @@ Opening the markets to a wider audience.
 - Discovery section for low average volume and high sentiment stocks that may be undervalued in the market
 - List relevant stocks to the ones entered
 - Connect to Robinhood account to analyze portfolio/watchlist
+- Implement request caching (optimization)
 
 # Data Source(s)
 Data provided by IEX Cloud
